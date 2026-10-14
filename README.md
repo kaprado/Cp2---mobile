@@ -16,7 +16,7 @@ Academia (capacidade máxima: 50 pessoas)
 - Kauan Prado Famelli — RM566990
 
 ## Vídeo de demonstração
-> https://youtu.be/EAdsI8aZS2Q
+ https://youtu.be/EAdsI8aZS2Q
 
 ## Estrutura do projeto
 ```
